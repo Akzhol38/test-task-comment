@@ -1,8 +1,9 @@
-# React + Vite
+# Тестовое Задание
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Создайте систему древовидного комментария с использованием рекурсивной
+функции,
 
-Currently, two official plugins are available:
+Для хранение данных использовал сервис MockApi
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Для просмотра проекта, можете склонировать репозитории и запустить на своем пк
+  
