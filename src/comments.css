@@ -1,0 +1,33 @@
+.comments-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.comment-form input,
+.comment-form textarea,
+.comment-form button {
+  display: block;
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+.comment {
+  padding: 10px;
+  border: 1px solid #ddd;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  background-color: #fff;
+}
+
+.reply {
+  margin-left: 30px;
+}
+
+.comment button {
+  margin-left: 10px;
+  cursor: pointer;
+}
